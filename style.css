@@ -47,6 +47,7 @@ padding: 20px;
 }
 
 .Experince-ap{
+    border: 3px purple;
     box-shadow: 15px 15px 50px blue;
     width: 40%;
     margin-left: 5%;
@@ -58,4 +59,16 @@ padding: 20px;
     background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
    background-position: left;
+}
+
+#ex{
+    border-left: 7px solid;
+    border-image: linear-gradient (blue, yellow);
+    border-image-slice: 1;
+}
+
+#ex2{
+    border-left: 10px solid;
+ border-image: linear-gradient( black , yellow);
+   border-image-slice: 1;
 }
