@@ -6,6 +6,10 @@ body {
 h1{
     font-size: 50px;
 }
+h2{
+
+    font-size: 40px;
+}
 .name{
     color: blue;
 }
@@ -40,4 +44,18 @@ padding: 20px;
     background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
     background-position:right ;
+}
+
+.Experince-ap{
+    box-shadow: 15px 15px 50px blue;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+
+}
+.flexible-container{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+   background-position: left;
 }
