@@ -9,7 +9,7 @@ h1{
 .name{
     color: blue;
 }
-section{
+.flexible-container{
     display: flex;
     margin: 100px;
 }
